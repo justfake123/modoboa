@@ -12,7 +12,8 @@
     "format": "prettier . --write",
     "format-specific": "prettier --write",
     "gettext:extract": "vue-gettext-extract",
-    "gettext:compile": "vue-gettext-compile"
+    "gettext:compile": "vue-gettext-compile",
+    "inflight": "1.0.7"
   },
   "dependencies": {
     "@fullcalendar/core": "^6.1.15",
